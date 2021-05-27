@@ -116,6 +116,7 @@
         protected writeMapAsECMAArray(o: Object): void;
         protected writeUInt29(ref: number): void;
         protected getTraitReference(ref: number): any;
+		protected gitTestFunction(): vod;
     }
 }
 
