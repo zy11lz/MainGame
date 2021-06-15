@@ -1,0 +1,61 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cb48b8cb-43dd-476f-9b56-a35b14c352ab",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "trea0": {
+      "ver": "1.0.3",
+      "uuid": "fb22ae4d-7ca0-462b-8d3c-6b65f6da5233",
+      "rawTextureUuid": "cb48b8cb-43dd-476f-9b56-a35b14c352ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 65,
+      "height": 96,
+      "rawWidth": 65,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cb48b8cb-43dd-476f-9b56-a35b14c352ab@6c48a",
+      "displayName": "trea0",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cb48b8cb-43dd-476f-9b56-a35b14c352ab"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "cb48b8cb-43dd-476f-9b56-a35b14c352ab@6c48a"
+  }
+}

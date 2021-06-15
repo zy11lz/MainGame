@@ -1,0 +1,61 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a399244b-b3f0-4e9f-b65c-43964610b9bd",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "trea4": {
+      "ver": "1.0.3",
+      "uuid": "beb9e32a-cfac-45fe-b1ba-e5adcced47c3",
+      "rawTextureUuid": "a399244b-b3f0-4e9f-b65c-43964610b9bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 123,
+      "rawWidth": 141,
+      "rawHeight": 123,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a399244b-b3f0-4e9f-b65c-43964610b9bd@6c48a",
+      "displayName": "trea4",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a399244b-b3f0-4e9f-b65c-43964610b9bd"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "a399244b-b3f0-4e9f-b65c-43964610b9bd@6c48a"
+  }
+}

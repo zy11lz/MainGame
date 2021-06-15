@@ -1,0 +1,61 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6bb52a17-97e6-42cf-8471-4403449f05bd",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "skill4": {
+      "ver": "1.0.3",
+      "uuid": "8eaa8f5f-af3e-4f89-9c13-e4f4e86d1a35",
+      "rawTextureUuid": "6bb52a17-97e6-42cf-8471-4403449f05bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 48,
+      "height": 41,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6bb52a17-97e6-42cf-8471-4403449f05bd@6c48a",
+      "displayName": "skill4",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6bb52a17-97e6-42cf-8471-4403449f05bd"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "6bb52a17-97e6-42cf-8471-4403449f05bd@6c48a"
+  }
+}
