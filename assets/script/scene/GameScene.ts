@@ -1,4 +1,3 @@
-
 import { _decorator, Component, Node, Label, Prefab ,instantiate} from 'cc';
 import { resourceUtil } from '../resourceUtil';
 const { ccclass, property } = _decorator;
@@ -48,9 +47,7 @@ export class GameScene extends Component {
     start ()
     {
         this.initData();
-        this.schedule(function() {
-            console.log("=============");
-        },3);
+
     }
 
 
@@ -81,5 +78,4 @@ export class GameScene extends Component {
         this.mLv.string = "1231223";
         this.mPhysical.string = "123123";
     }
-
 }

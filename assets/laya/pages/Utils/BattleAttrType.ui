@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"UIFrameImage",
+    "selectedBox":1,
+    "selecteID":1,
+    "referenceLines":null,
+    "props":{"y":0,"x":0,"width":24,"skin9":"res/common/battleAttrType_09.png","skin8":"res/common/battleAttrType_08.png","skin7":"res/common/battleAttrType_07.png","skin6":"res/common/battleAttrType_06.png","skin5":"res/common/battleAttrType_05.png","skin4":"res/common/battleAttrType_04.png","skin3":"res/common/battleAttrType_03.png","skin20":"res/common/battleAttrType_20.png","skin2":"res/common/battleAttrType_02.png","skin19":"res/common/battleAttrType_11.png","skin18":"res/common/battleAttrType_11.png","skin17":"res/common/battleAttrType_01.png","skin16":"res/common/battleAttrType_01.png","skin15":"res/common/battleAttrType_15.png","skin14":"res/common/battleAttrType_14.png","skin13":"res/common/battleAttrType_13.png","skin12":"res/common/battleAttrType_12.png","skin11":"res/common/battleAttrType_11.png","skin10":"res/common/battleAttrType_10.png","skin1":"res/common/battleAttrType_01.png","name":"imgIcon","height":28,"frame":1},
+    "nodeParent":-1,
+    "label":"UIFrameImage(imgIcon)",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":1,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

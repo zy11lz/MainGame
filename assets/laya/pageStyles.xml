@@ -1,0 +1,6 @@
+<page>
+   <item name="_temp/resPlace.ui" props="" ifExport="分离模式" aName=""/>
+   <item name="_temp/tempprefab.ui" props="" ifExport="分离模式" aName=""/>
+   <item name="_temp/tempui.ui" props="" ifExport="分离模式" aName=""/>
+   <item name="_temp/tempui2.ui" props="" ifExport="分离模式" aName=""/>
+</page>
